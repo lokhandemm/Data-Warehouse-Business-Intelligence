@@ -4,7 +4,8 @@ Welcome to the **Data Warehousing and Business Intelligence (DWBI)** course lab 
 
 
 ## 🌟 About the Course:
-In today's data-driven world, **Business Intelligence (BI)** is critical for making informed decisions. The **Data Warehousing and Business Intelligence (DWBI)** course provides a comprehensive understanding of how large-scale data is stored, processed, and analyzed to uncover valuable insights.  
+In today's data-driven world, **Business Intelligence (BI)** is critical for making informed decisions. 
+The **Data Warehousing and Business Intelligence (DWBI)** course provides a comprehensive understanding of how large-scale data is stored, processed, and analyzed to uncover valuable insights.  
 
 This repository serves as a structured guide to the labs and projects that complement the theoretical aspects of the course. By working through these exercises, you will gain practical knowledge of industry-standard tools and techniques.  
 
