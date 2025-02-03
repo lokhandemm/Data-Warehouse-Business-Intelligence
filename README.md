@@ -14,7 +14,7 @@ This repository serves as a structured guide to the labs and projects that compl
 - **Data Warehousing**: Understanding the architecture and design of data warehouses.  
 - **ETL Processes**: Extracting, transforming, and loading data efficiently.  
 - **SQL Mastery**: Leveraging SQL for aggregation, clustering, and indexing.  
-- **Data Visualization**: Creating impactful dashboards with tools like Tableau and Power BI.  
+- **Data Visualization**: Creating impactful dashboards with tools like Tableau and Power BI.
 - **Performance Optimization**: Implementing clustered tables, indexes, and IOT for enhanced database efficiency.  
 
 
