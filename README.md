@@ -10,7 +10,7 @@ The **Data Warehousing and Business Intelligence (DWBI)** course provides a comp
 
 This repository serves as a structured guide to the labs and projects that complement the theoretical aspects of the course. By working through these exercises, you will gain practical knowledge of industry-standard tools and techniques.   
 
-### Course Highlights:  
+### Course Highlights:   
 - **Data Warehousing**: Understanding the architecture and design of data warehouses.  
 - **ETL Processes**: Extracting, transforming, and loading data efficiently.  
 - **SQL Mastery**: Leveraging SQL for aggregation, clustering, and indexing.  
