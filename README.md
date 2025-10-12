@@ -4,7 +4,7 @@ Welcome to the **Data Warehousing and Business Intelligence (DWBI)** course lab 
 This repository is designed to support students and enthusiasts in mastering key concepts of data warehousing, ETL processes, and business intelligence through hands-on assignments and projects.
   
 
-## 🌟 About the Course:
+## 🌟 About the Course: 
 In today's data-driven world, **Business Intelligence (BI)** is critical for making informed decisions. 
 The **Data Warehousing and Business Intelligence (DWBI)** course provides a comprehensive understanding of how large-scale data is stored, processed, and analyzed to uncover valuable insights.  
 
